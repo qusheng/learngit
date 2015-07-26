@@ -4,3 +4,4 @@ branch test
 Creating a new branch is quick and simple.
 non-fast-forward
 git add
+git add file
